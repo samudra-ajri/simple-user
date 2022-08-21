@@ -25,3 +25,6 @@ $ make server
 $ docker compose up
 ```
 
+### The Simple DB Schema
+https://dbdiagram.io/d/62c55c5c69be0b672cae1226
+
